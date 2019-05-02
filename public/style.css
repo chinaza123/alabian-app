@@ -1,0 +1,163 @@
+.bg img{
+		width: 100%;
+		height: auto;
+	}
+	.container a {
+		text-decoration: none;
+		color: grey;
+		padding: 10px;
+	}
+
+	.container1{
+		text-align: center;
+	}
+	.unique1{
+		border-radius: 50%;
+		margin-top: -150px;
+	}
+
+	.container2{
+		background-image: url(images/aaa.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+
+
+	}
+	.box{
+		background-color: rgba(0, 0, 250, 0.3);
+		text-align: center;
+
+	}
+	.strong strong{
+		color: #FFFF00;
+	}
+	.strong{
+		color: white;
+	}
+
+
+
+	.parent{
+		background-color: grey;
+		text-align: center;
+		padding: 20px;
+		overflow: hidden;
+	}
+	.box1,.box2{
+		text-align: left;
+		height: 500px;
+		width: 46%;
+		padding: 10px;
+		margin-left: 10px;
+		border-radius: 10px;
+		background-color: white;
+
+
+	}
+	.box1{
+		float: left;
+		overflow: hidden;
+	}
+	.box2{
+		float: right;
+		overflow: hidden;
+	}
+	.img1{
+		float: left;
+	}
+	.img2{
+		float: left;
+	}
+
+
+	.bd{
+	color: white;
+	background-color: rgba(4, 69, 107, 0.6);
+	padding: 15px;
+	}
+	.download{
+		background-color:#00ff40;
+		color:#ffffff;
+		display:inline-block;
+		text-decoration: none;
+		padding:10px 10px;
+		-webkit-border-radius:10px;
+		-moz-border-radius:10px;
+		 -ms-border-radius:10px;
+		 border-radius:15px;
+
+	}
+
+
+	.portfolio{
+		text-align: center;
+		color: grey;
+	}
+	.contact{
+		color: grey;
+		overflow: hidden;
+	}
+
+
+	.iframe{
+		float: left;
+		width: 50%;
+		box-sizing: border-box;
+	}
+
+	.form{
+		float: left;
+		padding: 3px;
+		width: 50%;
+		box-sizing: border-box;
+
+	}
+	.form-input{
+		width: 95%;
+		border: 2px solid #32CD32;
+		padding: 10px;
+	}
+	.form-select{
+		width: 100%;
+		border: 2px solid #32CD32;
+		padding: 10px;
+	}
+
+
+	#submit{
+		background-color:#00ff40;
+		color:#ffffff;
+		display:inline-block;
+		text-decoration: none;
+		padding:10px 10px;
+		-webkit-border-radius:10px;
+		-moz-border-radius:10px;
+		 -ms-border-radius:10px;
+		 border-radius:10px;
+	}
+
+	.table2{
+		text-align: center;
+		background-image: url(images/aaa.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: white;
+
+
+	}
+	.content{
+		margin: auto;
+		color: white;
+		border: none;
+		border-collapse: collapse;
+	}
+
+	.content td, th{
+		padding: 10px;
+	}
+	.expenses{
+		background-color: rgba(4, 69, 107, 0.6);
+		padding: 20px;
+
+
+	}
